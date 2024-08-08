@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Anirudh Burman
 - 👀 I’m interested in everything related to Website Developement
-- 🌱 I’m currently learning React.js and expanding my knowledge in the world of Frontend developement.
-- 💞️ I’m looking to collaborate on any web apps or web pages.
+- 🌱 I’m currently learning Spring-Security and expanding my knowledge in the world of Fullstack developement.
+- 💞️ I’m looking to collaborate on any SpringBoot, Java and React based web apps or web pages.
 - 📫 How to reach me: 
                  ---- My Email : anirudh.burman.micro@gmail.com
-                 ---- My Instagram : https://www.instagram.com/_l_a_d_d_o_o_o_/
+                 ---- My LinkedIn : https://www.linkedin.com/in/anirudh-burman-692232211/
 
 <!---
 anirudhburman/anirudhburman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
