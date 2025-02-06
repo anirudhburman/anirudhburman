@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any SpringBoot, Java and React based web apps or web pages.
 - 📫 How to reach me: 
                  ---- My Email : anirudh.burman.micro@gmail.com
-                 ---- My LinkedIn : https://www.linkedin.com/in/anirudh-burman-692232211/
+                 ---- My LinkedIn : [https://www.linkedin.com/in/anirudh-burman-692232211/](https://www.linkedin.com/in/anirudh-barman/)
 
 <!---
 anirudhburman/anirudhburman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
